@@ -3,9 +3,7 @@
 A premium and interactive Memory Card Matching Game built with React, TypeScript, and Vite. The game challenges players to match card pairs while tracking moves, time, accuracy, and streaks. It also includes an AI Memory Buddy, sound effects, leaderboard tracking, and multiple difficulty levels.
 
 ## 🚀 Live Demo
-
-https://memory-card-matching-game-assignmen.vercel.app
-
+https://mind-match-kappa.vercel.app/
 ## ✨ Features
 
 ### 🎮 Gameplay
