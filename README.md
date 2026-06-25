@@ -78,11 +78,6 @@ The application is fully responsive and optimized for:
 
 ## ⚙️ Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/memory-card-matching-game.git
-```
 
 Install dependencies:
 
