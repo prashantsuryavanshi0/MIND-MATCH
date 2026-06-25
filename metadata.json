@@ -1,0 +1,6 @@
+{
+  "name": "Memory Card Matching Game",
+  "description": "A premium memory card matching game with multiple difficulties, dark/light modes, animations, sound effects, and persistent leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
